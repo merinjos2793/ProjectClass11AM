@@ -44,5 +44,14 @@ public class ClassA {
 	private void kerala() {
 		System.out.println("Malayalam");
 	}
+	
+	private void phone() {
+		System.out.println("Redmi");
+	}
+	
+	private void laptop() {
+		System.out.println("Asus");
+
+	}
 
 }
